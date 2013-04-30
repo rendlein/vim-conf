@@ -1,4 +1,4 @@
 vim-conf
 ========
 
-My vim files 
+This repository is my vim folder. My vimrc is in my configs repo.
