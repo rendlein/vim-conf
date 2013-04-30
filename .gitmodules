@@ -1,0 +1,27 @@
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/lua"]
+	path = bundle/lua
+	url = git://github.com/vim-scripts/lua.vim.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = git://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/vimwiki"]
+	path = bundle/vimwiki
+	url = git://github.com/vim-scripts/vimwiki.git
+[submodule "bundle/c.vim"]
+	path = bundle/c.vim
+	url = git://github.com/vim-scripts/c.vim.git
+[submodule "bundle/zenburn"]
+	path = bundle/zenburn
+	url = git://github.com/vim-scripts/Zenburn.git
+[submodule "bundle/vim2hs"]
+	path = bundle/vim2hs
+	url = git://github.com/dag/vim2hs.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/neco-ghc"]
+	path = bundle/neco-ghc
+	url = git://github.com/ujihisa/neco-ghc.git
