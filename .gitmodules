@@ -1,30 +1,40 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = git://github.com/scrooloose/nerdtree.git
+    url = git://github.com/scrooloose/nerdtree.git
+    ignore = untracked
 [submodule "bundle/lua"]
 	path = bundle/lua
 	url = git://github.com/vim-scripts/lua.vim.git
+    ignore = untracked
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = git://github.com/vim-scripts/taglist.vim.git
+    ignore = untracked
 [submodule "bundle/vimwiki"]
 	path = bundle/vimwiki
 	url = git://github.com/vim-scripts/vimwiki.git
+    ignore = untracked
 [submodule "bundle/c.vim"]
 	path = bundle/c.vim
 	url = git://github.com/vim-scripts/c.vim.git
+    ignore = untracked
 [submodule "bundle/zenburn"]
 	path = bundle/zenburn
 	url = git://github.com/vim-scripts/Zenburn.git
+    ignore = untracked
 [submodule "bundle/vim2hs"]
 	path = bundle/vim2hs
 	url = git://github.com/dag/vim2hs.git
+    ignore = untracked
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = git://github.com/tpope/vim-fugitive.git
+    ignore = untracked
 [submodule "bundle/neco-ghc"]
 	path = bundle/neco-ghc
 	url = git://github.com/ujihisa/neco-ghc.git
+    ignore = untracked
 [submodule "bundle/vim-tmux"]
 	path = bundle/vim-tmux
 	url = git://github.com/peterhoeg/vim-tmux.git
+    ignore = untracked
