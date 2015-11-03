@@ -14,10 +14,6 @@
 	path = bundle/vimwiki
 	url = git://github.com/vim-scripts/vimwiki.git
     ignore = untracked
-[submodule "bundle/c.vim"]
-	path = bundle/c.vim
-	url = git://github.com/vim-scripts/c.vim
-    ignore = untracked
 [submodule "bundle/zenburn"]
 	path = bundle/zenburn
 	url = git://github.com/vim-scripts/Zenburn.git
